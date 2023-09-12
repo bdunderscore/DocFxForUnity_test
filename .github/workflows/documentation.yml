@@ -1,6 +1,7 @@
 name: Example documentation
 
 on:
+  workflow_dispatch: {}
   push:
     branches:
       - main
